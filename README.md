@@ -1,5 +1,5 @@
 # Fancy-Calculator-App
-
+Build a fancy calculator with Jetpack Compose.
 
 Video: https://www.youtube.com/watch?v=2Jweqm0cFs8&t=41s
 
